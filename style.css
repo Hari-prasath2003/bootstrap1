@@ -1,0 +1,121 @@
+ul li a {
+    color: pink !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 20px;
+    font-weight: 800;
+}
+ul li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+nav{
+    background-color: hotpink; !important;
+    
+}
+*{
+    background-color: black;
+
+}
+ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3.5vmin;
+    font-weight: 400;
+}
+.about h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5vmin;
+}
+
+
+
+.purchase h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5vmin;
+}
+
+.purchase{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.805) !important;
+}
+#pic img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 40%;
+    margin-top: 6%;
+}
+#pic{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#review .card{
+    min-height: 500px;
+    border-radius: 30px;
+    border-color: rgba(128, 128, 128, 0.47);
+   
+}
+#purchase .card{
+    height: 500px;
+    background-color: black;
+    
+}
+#img img{
+    height: 400px;
+    border-radius: 30px;
+}
+
+#img{
+    height: 400px;
+    
+}
+#review h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5vmin;
+}
+
+#contact h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5vmin;
+}
+#form input{
+    background-color: black;
+    color: white;
+    
+    
+}
+#form{
+    max-width: 350px;
+    margin: auto;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+textarea{
+    color: white;
+    
+}
+#button {
+    margin-left: 100px;
+}
+button{
+    background-color: deeppink;
+    border-radius: 20px;
+    border: salid;
+}
